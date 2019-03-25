@@ -1,2 +1,2 @@
 # Midterm-Comp-Photo
-The image that is right below the Design Doc is the original Image. All other images are in the folders with supporting files.
+The image that is not in any folder is the original, so the one that is at the bottom. All other images are in the folders with supporting files.
